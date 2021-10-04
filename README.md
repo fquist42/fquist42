@@ -25,7 +25,6 @@ The project will be divided into 3 parts, which contains all my projects that I 
 
 - 🔭 I’m currently working on: some c-functions
 - 🌱 I’m currently learning: C!
-- 📫 How to reach me: Discord -> Nelixx#0195
-- 😄 Pronouns: Yo/Alter/dude
-- ⚡ Fun fact: i have a B.Sc. in cultural Anthropology/Ethnology.
+- 📫 How to reach me: Email: fquist@student.42heilbronn.de | Discord: Nelixx#0195
+- ⚡ Fun fact: I have a B.Sc. in cultural Anthropology/Ethnology.
 </details>
