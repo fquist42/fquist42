@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-I am Fabian Quist, a german 🇩🇪 student @42School Heilbronn, Germany who is learning a lot of new stuff everyday to become a good and reliable problem-solver!
+I am Fabian Quist, a german 🇩🇪 student @42Heilbronn, Germany who is learning a lot of new stuff everyday to become a good and reliable problem-solver!
 
 Intra: Fquist |
 Coalition: Area 42 :alien:
