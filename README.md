@@ -6,7 +6,7 @@ I am Fabian Quist, a german 🇩🇪 student @42Heilbronn in Germany who is lear
 
 Intra: Fquist |
 Coalition: Area 42 :alien:
-(Fyi: This School is awesome, go check it out.)
+<br>(Fyi: This School is awesome, go check it out.)
 
 ## Current plans:
 
