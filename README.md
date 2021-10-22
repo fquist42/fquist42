@@ -15,8 +15,9 @@ The project will be divided into 3 parts, which contains all my projects that I 
 
  ## Project status:
  
-- ***Libft*** is under evaluation.
-- Next Project: ***Born2beRoot***
+- Passed ***Libft*** (will be uploaded soon)
+- Passed ***Born2beRoot*** (will be uploaded soon)
+- Current Project: ***Ft_Printf***
 
 <br>
 <details>  
