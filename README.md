@@ -17,7 +17,8 @@ The project will be divided into 3 parts, which contains all my projects that I 
  
 - Passed ***Libft*** (will be uploaded soon)
 - Passed ***Born2beRoot*** (will be uploaded soon)
-- Current Project: ***Ft_Printf***
+- Passed ***ft_Printf***
+- Current Project: ***Get_next_line***
 
 <br>
 <details>  
