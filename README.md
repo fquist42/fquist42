@@ -15,10 +15,10 @@ The project will be divided into 3 parts, which contains all my projects that I 
 
  ## Project status:
  
-- Passed ***Libft*** (will be uploaded soon)
+- Passed ***Libft*** (uploaded)
 - Passed ***Born2beRoot*** (will be uploaded soon)
-- Passed ***ft_Printf***
-- Current Project: ***Get_next_line***
+- Passed ***ft_Printf*** (will be uploaded soon)
+- Current Project: ***Get_next_line*** (ongoing evaluation)
 
 <br>
 <details>  
