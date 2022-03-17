@@ -15,17 +15,21 @@ The project will be divided into 3 parts, which contains all my projects that I 
 
  ## Project status:
  
-- Passed ***Libft*** (uploaded)
-- Passed ***Born2beRoot*** (will be uploaded soon)
-- Passed ***ft_Printf*** (will be uploaded soon)
-- Current Project: ***Get_next_line*** (ongoing evaluation)
+- Passed ***Libft*** 125 (uploaded)
+- Passed ***Born2beRoot*** 125
+- Passed ***ft_Printf*** 125 (uploaded)
+- Passed ***Get_next_line*** 125 (uploaded)
+- Passed ***Push_swap*** 125 (uploaded)
+- Passed ***So_long*** 125 (uploaded)
+- Passed ***Pipex*** 125 (uploaded)
+- Current Project: ***Minishell**
 
 <br>
 <details>  
 <summary>Click here to know more about me :)</summary>
   
 
-- 🔭 I’m currently working on: some c-functions
+- 🔭 I’m currently working on: writing my own little bash together with denicem.
 - 🌱 I’m currently learning: C!
 - 📫 How to reach me: Email: fquist@student.42heilbronn.de | Discord: Nelixx#0195
 - ⚡ Fun fact: I have a B.Sc. in cultural Anthropology/Ethnology.
