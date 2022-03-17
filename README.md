@@ -13,13 +13,13 @@ My projects from the **core curriculum** will be available as repositories and w
 
  ## Project status:
  
-- Passed ***Libft*** 125 (uploaded)
-- Passed ***Born2beRoot*** 125
-- Passed ***ft_Printf*** 125 (uploaded)
-- Passed ***Get_next_line*** 125 (uploaded)
-- Passed ***Push_swap*** 125 (uploaded)
-- Passed ***So_long*** 125 (uploaded)
-- Passed ***Pipex*** 125 (uploaded)
+- Passed ***Libft***              125 (uploaded)
+- Passed ***Born2beRoot***        125 (Tutorial follows if i got time to do it.)
+- Passed ***ft_Printf***          125 (uploaded)
+- Passed ***Get_next_line***      125 (uploaded)
+- Passed ***Push_swap***          125 (uploaded)
+- Passed ***So_long***            125 (uploaded)
+- Passed ***Pipex***              125 (uploaded)
 - Current Project: ***Minishell**
 
 <br>
