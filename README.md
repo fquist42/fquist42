@@ -9,9 +9,7 @@ Coalition: Area 42 :alien:
 <br>(Fyi: This School is awesome, go check it out.)
 
 ## Current plans:
-
-My project "42 Heilbronn" will be available under "projects" and will be constantly expanded and updated.
-The project will be divided into 3 parts, which contains all my projects that I want to achieve during the **core curriculum**, the **internship** and the following **specialisation phase** (subject to change). The repositories of the individual projects will be published and linked to the project as soon as I have passed the tests. Non-related 42 projects are kept separate.
+My projects from the **core curriculum** will be available as repositories and will be constantly expanded and updated.
 
  ## Project status:
  
